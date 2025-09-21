@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # About the project
 
 ## What is this project about?
@@ -22,3 +23,11 @@ I update it whenever new features or improvements are needed.
 
 ## Have you used external libraries?
 No, this project does not use external libraries.
+=======
+# Curso de programación full stack  
+## MÓDULO 2 - Repositorio y WorkFlow  
+
+**Autor:** Apellido Nombre  
+
+Este repositorio fue creado con fines académicos, por lo que en el futuro cercano será eliminado.
+>>>>>>> eb63230725cd7b6226ac8ebd24c954d0f0e238b0
